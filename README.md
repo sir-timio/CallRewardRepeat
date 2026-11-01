@@ -3,7 +3,7 @@
 [![Paper: EACL 2026 SRW](https://img.shields.io/badge/Paper-EACL_2026_SRW-blue)](https://aclanthology.org/2026.eacl-srw.21/)
 [![DOI](https://img.shields.io/badge/DOI-10.18653%2Fv1%2F2026.eacl--srw.21-blue)](https://doi.org/10.18653/v1/2026.eacl-srw.21)
 
-**🏆 Outstanding Paper Award — EACL 2026 Student Research Workshop.** [Award announcement (ITMO AI Talent Hub)](https://ai.itmo.ru/blog/9hzjjont31-pobedi-ai-talent-hub-eacl-ecir-ii-agenti)
+**🏆 Outstanding Paper Award — EACL 2026 Student Research Workshop.**
 
 Research code accompanying the paper by **Timur Ionov, Anna Marshalova, and Valentin Malykh**, published in the *Proceedings of EACL 2026 (Volume 4: Student Research Workshop)*, pp. 292–303.
 
