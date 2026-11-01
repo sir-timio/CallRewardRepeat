@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code or method, please cite the published paper below."
+title: "Call, Reward, Repeat: Advancing Dialog State Tracking with GRPO and Function Calling"
+type: software
+authors:
+  - family-names: Ionov
+    given-names: Timur
+  - family-names: Marshalova
+    given-names: Anna
+  - family-names: Malykh
+    given-names: Valentin
+repository-code: "https://github.com/sir-timio/CallRewardRepeat"
+url: "https://aclanthology.org/2026.eacl-srw.21/"
+keywords:
+  - dialogue state tracking
+  - task-oriented dialogue
+  - function calling
+  - tool use
+  - reinforcement learning
+  - GRPO
+  - large language models
+  - MultiWOZ
+  - low-resource learning
+  - cross-domain generalization
+preferred-citation:
+  type: conference-paper
+  title: "Call, Reward, Repeat: Advancing Dialog State Tracking with GRPO and Function Calling"
+  authors:
+    - family-names: Ionov
+      given-names: Timur
+    - family-names: Marshalova
+      given-names: Anna
+    - family-names: Malykh
+      given-names: Valentin
+  collection-title: "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 4: Student Research Workshop)"
+  year: 2026
+  month: 3
+  start: 292
+  end: 303
+  doi: "10.18653/v1/2026.eacl-srw.21"
+  url: "https://aclanthology.org/2026.eacl-srw.21/"
+  publisher:
+    name: Association for Computational Linguistics
